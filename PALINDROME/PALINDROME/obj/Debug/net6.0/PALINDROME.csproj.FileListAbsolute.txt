@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\bin\Debug\net6.0\PALINDROME.exe
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\bin\Debug\net6.0\PALINDROME.deps.json
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\bin\Debug\net6.0\PALINDROME.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\bin\Debug\net6.0\PALINDROME.dll
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\bin\Debug\net6.0\PALINDROME.pdb
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\PALINDROME.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\PALINDROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\PALINDROME.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\PALINDROME.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\PALINDROME.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\PALINDROME.dll
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\refint\PALINDROME.dll
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\PALINDROME.pdb
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\PALINDROME.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\PALINDROME\PALINDROME\obj\Debug\net6.0\ref\PALINDROME.dll
